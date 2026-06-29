@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3et003/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太醫局諸科程文格
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3et003.xml
+hash: sha256:1df1a1f569c4ab5901108ec9e49c5e38e7d398c7f022947ca962df6cc17fe586

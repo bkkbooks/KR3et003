@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3et003/T/v1
+canonical_location: https://kanripo.org/bkk/KR3et003/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太醫局諸科程文格
+  identifiers:
+    krp: KR3et003
+  tags:
+    kr-categories: KR3et
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3et003.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3et003_001-T.yaml, hash: 'sha256:1df1a1f569c4ab5901108ec9e49c5e38e7d398c7f022947ca962df6cc17fe586'}
+table_of_contents: []
+hash: sha256:cab20f81e646da7e0657dd2b07b18cce2c831b9c8a84944e3da694c0db25a495
