@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3et003/v1
 canonical_location: https://kanripo.org/bkk/KR3et003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 太醫局諸科程文格
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3et003_001.yaml
     hash: sha256:1df1a1f569c4ab5901108ec9e49c5e38e7d398c7f022947ca962df6cc17fe586
 table_of_contents: []
-hash: sha256:d29e1bd4d78ee723159cb688c238be223fd4463fbac15bd0de8389980238a7c0
+hash: sha256:ca49e883852c06b1d7658af766f9e306928e342802ab80fdc8b391b1d6dc68f9
